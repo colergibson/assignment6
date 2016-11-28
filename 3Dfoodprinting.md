@@ -2,7 +2,7 @@
 % Celine Yuwono and Cole Gibson
 % 10 Dec, 2016
 
-# Intro to Food Printing
+# Intro to 3D Food Printing
 
 # History
 
@@ -13,3 +13,5 @@
 # Poverty and Hunger Issues
 
 # Space
+
+# Takeaways
