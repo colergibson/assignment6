@@ -10,7 +10,6 @@
 # Applications
 
 # Gourmet
-<p></p>
 <p class="fragment">3D printed<span class="fragment">lab-grown meat</span>
 <span class="fragment">could be in stores</span>
 <span class="fragment">in the next five years.</span></p>
