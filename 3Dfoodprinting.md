@@ -3,6 +3,7 @@
 % 10 Dec, 2016
 
 # Intro to 3D Food Printing
+<img src="foodink1.JPG"/>
 
 # History
 
