@@ -46,18 +46,22 @@ an exciting direction.">
 <section>
 <aside class="3D printing have been newly used for inventing beautiful yet expensive gourmet food.
 A 3D printing restaurant called Food Ink serves a two hundred and fifty-pound-nine course meal in London, 
-England - all fully 3D printed live in front of the customers. 3D printing each food currently takes two 
+England - all fully 3D printed live in front of the customers."> s
+<p class= "fragment">Food Ink, all fully 3D printed live<p>
+<!--Next -->
+<aside class="3D printing each food currently takes two 
 to five minutes. Other restaurants that produces 3D printed food includes 3D Samba, a restaurant made by 
-a Spanish Michelin-star winning chef, Mateo Blanch. The 3D printer that is commonly used in gourmet food 
+a Spanish Michelin-star winning chef, Mateo Blanch.">
+<p class= "fragment">2-5 minutes printing for each food.<p>
+<!--Next -->
+<aside class="The 3D printer that is commonly used in gourmet food 
 printing is made by a Dutch printer manufacturer, byFlow. ByFlow created a portable 3D printer, called the 
-Focus 3D printer. The Focus 3D printer can only process paste-like materials, like clay, ceramic, and silicon. 
-Food materials that can be printed includes hummus, meat, chocolate, goat cheese, and pizza dough. 
+Focus 3D printer. The Focus 3D printer can only process paste-like materials, like clay, ceramic, and silicon.">
+<p class= "fragment">Dutch printer manufacturer, byFlow created the Focus 3D printer.<p>
+<!--Next -->
+<aside class="Food materials that can be printed includes hummus, meat, chocolate, goat cheese, and pizza dough. 
 The Focus 3D printer has been demonstrated in 3D Printshows in cities such as Paris, Rome, Singapore, Dubai,
 and Las Vegas, drawing attention from molecular gastronomers all over the world.">
-<p class= "fragment">Food Ink<p>
-<p class= "fragment">all fully 3D printed live<p>
-<p class= "fragment">Dutch printer manufacturer, byFlow<p>
-<p class= "fragment">created Focus 3D printer<p>
 <p class= "fragment">hummus, meat, chocolate, goat cheese, and pizza dough</p>
 </section>
 
@@ -109,12 +113,14 @@ drastically reduce costs of 3D printing food.">
 <aside class="3D Food Printing has been researched for use in Space as well. 
 The aim of the research is so astronauts can make personalized recipes and prepare 
 food for themselves in Space, especially deep space travel and long missions. 
-This will allow astronauts to eat healthier, to their tastes, and more variety. 
-NASA has funded a small, research business called “Systems and Materials Research Consultancy” 
-in Austin, Texas, to specifically study how to 3D print food in Space. The initial endowment for 
-this Phase 1 study was $125,000 for six months.">
+This will allow astronauts to eat healthier, to their tastes, and more variety."> 
 <p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">astronauts can make personalized recipes in deep space travel and long missions</p>
+<!--Next -->
+<aside class="NASA has funded a small, research business called “Systems and Materials Research Consultancy” 
+in Austin, Texas, to specifically study how to 3D print food in Space."> 
 <p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">Systems and Materials Research Consultancy in Austin, Texas</p>
+<!--Next -->
+<aside clas="The initial endowment for this Phase 1 study was $125,000 for six months.">
 <p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">$125,000 for Phase 1 study (6 months)</p>
 </section>
 
@@ -132,10 +138,11 @@ while benefiting life here on Earth." </p>
 
 # Space
 <section>
-<aside class="Although the prototype of this 3D printer is done, it has not been used directly in Space. 
-Research on the best food to make like frozen food or hot foods, are still being conducted. 
-In the future, 3D printing food in space may revolutionize the idea of travelling in Space.">
+<aside class="Although the prototype of this 3D printer is done, it has not been used directly in Space."> 
 <p class= "fragment">has not been used directly in Space</p>
+<!--Next -->
+<aside class="Research on the best food to make like frozen food or hot foods, are still being conducted. 
+In the future, 3D printing food in space may revolutionize the idea of travelling in Space.">
 <p class= "fragment">3D printing food in space may revoluationize the idea of travelling in Space</p>
 </section>
 
