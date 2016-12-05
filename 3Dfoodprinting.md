@@ -67,13 +67,8 @@ however, it also facilitates control of the molecular gastronomy of printed food
 of intricately created food, the innovative act of 3D printing food may be the next fashionable gourmet experience, 
 as more restaurants are keeping an eye on the new technology."> 
 <!--Quote -->
-<p class="fragment">"The robotic limb <span class="fragment">(of the 3D printer) </span>
-<span class="fragment">has greater precision </span>
-<span class="fragment">than any human hand, </span>
-<span class="fragment">however, </span>
-<span class="fragment">it also facilitates control, </span>
-<span class="fragment">of the molecular gastronomy </span>
-<span class="fragment">of printed food. "</span></p><br/>
+<p class="fragment">"The robotic limb <span class="fragment">(of the 3D printer) 
+has greater precision than any human hand, however, it also facilitates control, of the molecular gastronomy of printed food. "</p><br/>
 <!--End Quote -->
 </section>
 
@@ -100,9 +95,7 @@ drastically reduce costs of 3D printing food.">
 <section>
 <aside class="Researchers quoted: “3D printed lab-grown meat could be in stores in the next five years.”">
 <!--Quote -->
-<p class="fragment">"3D printed <span class="fragment">lab-grown meat </span>
-<span class="fragment">could be in stores </span>
-<span class="fragment">in the next five years."</span></p><br/>
+<p class="fragment">"3D printed lab-grown meat could be in stores in the next five years."</p><br/>
 <!--End Quote -->
 </section>
 
@@ -126,13 +119,9 @@ this Phase 1 study was $125,000 for six months.">
 technologies that NASA is investing in, to create the new knowledge and capabilities needed to enable 
 future space missions while benefiting life here on Earth.”">
 <!--Quote -->
-<p class="fragment">"3D printing <span class="fragment">is just one of the many </span>
-<span class="fragment">transformation technologies </span>
-<span class="fragment">that NASA is investing in, </span>
-<span class="fragment">to create </span>
-<span class="fragment">the new technologies and capabilities </span>
-<span class="fragment">needed to enable future space missions </span>
-<span class="fragment">while benefiting life here on Earth." </span></p>
+<p class="fragment">"3D printing is just one of the many transformation technologies 
+that NASA is investing in, to create the new technologies and capabilities needed to enable future space missions 
+while benefiting life here on Earth." </p>
 <!--End Quote -->
 </section>
 
