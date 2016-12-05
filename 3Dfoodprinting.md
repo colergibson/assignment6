@@ -13,8 +13,7 @@
 <p class= "fragment">all fully 3D printed live<p>
 <p class= "fragment">Dutch printer manufacturer, byFlow<p>
 <p class= "fragment">created Focus 3D printer<p>
-<p class= "fragment">hummus, meat, chocolate, goat cheese, and pizza dough</p><br/>
-<br/><br/>
+<p class= "fragment">hummus, meat, chocolate, goat cheese, and pizza dough</p>
 # Gourmet
 <!--Quote -->
 <p class="fragment">"The robotic limb <span class="fragment">(of the 3D printer) </span>
@@ -50,7 +49,7 @@
 <span class="fragment">to create </span>
 <span class="fragment">the new technologies and capabilities </span>
 <span class="fragment">needed to enable future space missions </span>
-<span class="fragment">while benefiting life here on Earth." </span></p><br/>
+<span class="fragment">while benefiting life here on Earth." </span></p>
 <!--End Quote -->
 # Space
 <p class= "fragment">has not been used directly in Space</p>
