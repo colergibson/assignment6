@@ -2,7 +2,9 @@
 % Celine Yuwono and Cole Gibson
 % 10 Dec, 2016
 
-# Intro to 3D Food Printing
+<section id="intro-to-3d-food-printing" class="slidelevel1">
+<h1>Intro to 3D Food Printing</h1>
+</section>
 
 <section id="history" data-audio-src="audio/History1.ogg" data-background="#56A0D3" class="slidelevel1">
 <h1>History</h1>
