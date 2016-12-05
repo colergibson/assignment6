@@ -29,8 +29,10 @@
  use fresh ingredients.">
  </section>
 
-<section data-background-video="https://www.youtube.com/watch?v=D7Gb-X1DGmk">
-<aside class="In 2014 Natural Machines introduced the world to Foodini. Foodini 
+<section>
+   <video data-audio-controls src="./video/NaturalMachinesPizzaTrailer.mp4#t=10,30" type="video/mp4" width="100%" />
+  </video>
+  <aside class="In 2014 Natural Machines introduced the world to Foodini. Foodini 
 was designed to be used in home and professional kitchens where users supplied 
 fresh ingredients instead of food capsules. While currently the ingredients need
 to be in a puree form and have to be cooked separately, this was a large step in
@@ -145,6 +147,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 
 # Takeaways
 <aside class="As you can see 3d food printing can have a wide range of uses.">
+</section>
 
 <section data-background="http://www.3ders.org/images2014/3d-systems-3d-food-printing-partnership-with-the-culinary-institute-of-america-5.jpg">
 <aside class="From artistic designs,"></section>
