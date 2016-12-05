@@ -4,7 +4,8 @@
 
 # Intro to 3D Food Printing
 
-<section id="history" class="slidelevel1" data-audio-src="audio/History1.ogg" data-background="#56A0D3"
+<section id="history" data-audio-src="audio/History1.ogg" data-background="#56A0D3" class="slidelevel1">
+<h1>History</h1>
 <aside class="Although 3D Printing has been in development since the late 1980s,
 3D food printing is a relatively new arrival on the scene.">
 </section>
@@ -28,7 +29,7 @@
  using fresh ingredients.">
  </section>
 
-<section data-audio-src="audio/History1.ogg" data-background="#56A0D3" class="slidelevel1">
+<section data-audio-src="audio/History6.ogg" data-background="#56A0D3" class="slidelevel1">
    <video data-audio-controls src="./video/NaturalMachinesPizzaTrailer.mp4#t=10,30" type="video/mp4" width="100%" />
   </video>
   <aside class="In 2014 Natural Machines introduced the world to Foodini. Foodini 
