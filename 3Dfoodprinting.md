@@ -4,40 +4,38 @@
 
 # Intro to 3D Food Printing
 
-# History
-
-<data-audio-src="audio/History.ogg" data-background="#56A0D3">
+<section id="history" class="slidelevel1" data-audio-src="audio/History1.ogg" data-background="#56A0D3"
 <aside class="Although 3D Printing has been in development since the late 1980s,
 3D food printing is a relatively new arrival on the scene.">
 </section>
 
-<section data-background="http://static1.squarespace.com/static/563ff51ae4b07bcd9d94b307/t/570c2a078a65e290dc6740dc/1480381550154/?format=1500w"> 
+<section data-audio-src="audio/History2.ogg" data-background="http://static1.squarespace.com/static/563ff51ae4b07bcd9d94b307/t/570c2a078a65e290dc6740dc/1480381550154/?format=1500w"> 
 <aside class="In 2013 The Sugar Lab">
 </section>
 
-<section data-background="http://cdn.archinect.net/images/1200x/2m/2mn99y2e05obcjnz.jpg">
+<section data-audio-src="audio/History3.ogg" data-background="http://cdn.archinect.net/images/1200x/2m/2mn99y2e05obcjnz.jpg">
 <aside class="began to produce 3D printed sugar sculptures">
 </section>
 
- <section data-background="https://images.britcdn.com/wp-content/uploads/2014/01/9-Chefjet.jpg">
+ <section data-audio-src="audio/History4.ogg" data-background="https://images.britcdn.com/wp-content/uploads/2014/01/9-Chefjet.jpg">
  <aside class="and in 2014 3D Systems who had purchased the company released the
  first  kitchen-ready 3D food printers.">
  </section>
  
- <section data-background="http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2013/12/Natural-Machines-Foodini-Pizza-537x359.jpg">
+ <section data-audio-src="audio/History5.ogg" data-background="http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2013/12/Natural-Machines-Foodini-Pizza-537x359.jpg">
  <aside class="While many of the 3D printers focus on 
  sweets  and candy printing there is a growing field for real and actual food 
- use fresh ingredients.">
+ using fresh ingredients.">
  </section>
 
-<section>
+<section data-audio-src="audio/History1.ogg" data-background="#56A0D3" class="slidelevel1">
    <video data-audio-controls src="./video/NaturalMachinesPizzaTrailer.mp4#t=10,30" type="video/mp4" width="100%" />
   </video>
   <aside class="In 2014 Natural Machines introduced the world to Foodini. Foodini 
 was designed to be used in home and professional kitchens where users supplied 
 fresh ingredients instead of food capsules. While currently the ingredients need
 to be in a puree form and have to be cooked separately, this was a large step in
-an exciting direction.">
+an interesting direction.">
 </section>
 
 # Applications
