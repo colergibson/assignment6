@@ -67,7 +67,7 @@ however, it also facilitates control of the molecular gastronomy of printed food
 of intricately created food, the innovative act of 3D printing food may be the next fashionable gourmet experience, 
 as more restaurants are keeping an eye on the new technology."> 
 <!--Quote -->
-<p class="fragment">"The robotic limb <span class="fragment">(of the 3D printer) 
+<p class="fragment">"The robotic limb (of the 3D printer) 
 has greater precision than any human hand, however, it also facilitates control, of the molecular gastronomy of printed food. "</p><br/>
 <!--End Quote -->
 </section>
