@@ -75,7 +75,7 @@ as more restaurants are keeping an eye on the new technology.">
 <!--End Quote -->
 </section>
 
-# Poverty and Hunger Issues
+# Poverty/Hunger Issues
 <section>
 <aside class="3D Food Printing has been researched to solve the problem of world hunger and poverty. 
 This is done by Food Technician Peter Verstrate and Maastricht University professor Mark Post. 
@@ -94,7 +94,7 @@ drastically reduce costs of 3D printing food.">
 <p class= "fragment">$331,000 to print meat</p>
 </section>
 
-# Poverty and Hunger Issues
+# Poverty/Hunger Issues
 
 <section>
 <aside class="Researchers quoted: “3D printed lab-grown meat could be in stores in the next five years.”">
