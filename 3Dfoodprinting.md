@@ -95,7 +95,6 @@ drastically reduce costs of 3D printing food.">
 </section>
 
 # Poverty/Hunger Issues
-
 <section>
 <aside class="Researchers quoted: “3D printed lab-grown meat could be in stores in the next five years.”">
 <!--Quote -->
