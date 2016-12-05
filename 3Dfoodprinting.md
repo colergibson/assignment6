@@ -75,28 +75,32 @@ has greater precision than any human hand, however, it also facilitates control,
 
 # Poverty/Hunger Issues
 <section>
-<aside class="3D Food Printing has been researched to solve the problem of world hunger and poverty. 
-This is done by Food Technician Peter Verstrate and Maastricht University professor Mark Post. 
-They have been researching on 3D printing beef meat starting from 2013. The process involves 3D 
-printing meat grown from beef stem cells. The initial prototype of a 3D printed meat was successful 
-and tasted remotely similar to real meat. Despite this, it costs $331,000 to do 3D print meat. If 3D 
-food printing costs are higher that of a commodity’s, solving world hunger and poverty is still impossible. 
-A benefit of 3D printing meat is that it will reduce environmental threats due to excessive farming and slaughtering. 
-The researched has grown since 2013, hiring 25 new, qualified researchers in order to enable a mass-produced, 
-yet equally delicious 3D printed meat. 3D printing meat and food can be the culture in a more distant future, 
+<aside class="3D Food Printing has been researched to solve the problem of world hunger and poverty.">
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class="fragment">researched to solve the problem of world hunger and poverty</p>
+<!--Next -->
+<aside class="This is done by Food Technician Peter Verstrate and Maastricht University professor Mark Post. 
+They have been researching on 3D printing beef meat starting from 2013.">
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class="fragment">Peter Verstrate and Mark Post</p>
+<!--Next -->
+<aside class="The process involves 3D printing meat grown from beef stem cells. The initial prototype of a 3D printed meat was successful 
+and tasted remotely similar to real meat.">
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">3D printing meat from beef stem cells<p>
+<!--Next -->
+<aside class="Despite this, it costs $331,000 to do 3D print meat. If 3D food printing costs are higher that of a commodity’s, 
+solving world hunger and poverty is still impossible. A benefit of 3D printing meat is that it will reduce environmental threats 
+due to excessive farming and slaughtering. The researched has grown since 2013, hiring 25 new, qualified researchers in order to enable a 
+mass-produced, yet equally delicious 3D printed meat. 3D printing meat and food can be the culture in a more distant future, 
 starting with the research of solving world hunger and poverty, as long as development of 3D food printers can 
 drastically reduce costs of 3D printing food.">
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class="fragment">researched to solve the problem of world hunger and poverty</p>
-<p class="fragment">Peter Verstrate and Mark Post</p>
-<p class= "fragment">3D printing meat from beef stem cells<p>
-<p class= "fragment">$331,000 to print meat</p>
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">$331,000 to print meat</p>
+
 </section>
 
 # Poverty/Hunger Issues
 <section>
 <aside class="Researchers quoted: “3D printed lab-grown meat could be in stores in the next five years.”">
 <!--Quote -->
-<p class="fragment">"3D printed lab-grown meat could be in stores in the next five years."</p><br/>
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class="fragment">"3D printed lab-grown meat could be in stores in the next five years."</p><br/>
 <!--End Quote -->
 </section>
 
@@ -109,9 +113,9 @@ This will allow astronauts to eat healthier, to their tastes, and more variety.
 NASA has funded a small, research business called “Systems and Materials Research Consultancy” 
 in Austin, Texas, to specifically study how to 3D print food in Space. The initial endowment for 
 this Phase 1 study was $125,000 for six months.">
-<p class= "fragment">astronauts can make personalized recipes in deep space travel and long missions</p>
-<p class= "fragment">Systems and Materials Research Consultancy in Austin, Texas</p>
-<p class= "fragment">$125,000 for Phase 1 study (6 months)</p>
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">astronauts can make personalized recipes in deep space travel and long missions</p>
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">Systems and Materials Research Consultancy in Austin, Texas</p>
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">$125,000 for Phase 1 study (6 months)</p>
 </section>
 
 # Space
