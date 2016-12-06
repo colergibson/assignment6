@@ -149,7 +149,7 @@ while benefiting life here on Earth." </p>
 <!--Next -->
 <aside class="Research on the best food to make like frozen food or hot foods, are still being conducted. 
 In the future, 3D printing food in space may revolutionize the idea of travelling in Space.">
-<p data-audio-src="audio/theideaof.ogg" data-background="#56A0D3" class= "fragment">3D printing food in space may revoluationize the idea of travelling in Space</p>
+<p data-audio-src="audio/theideaof.ogg" data-background="#56A0D3" class= "fragment">3D printing food in space may revolutionize the idea of travelling in Space</p>
 </section>
 
 # Takeaways
