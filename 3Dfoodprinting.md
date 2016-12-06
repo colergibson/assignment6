@@ -3,8 +3,8 @@
 % 10 Dec, 2016
 
 #Intro to 3D Food Printing
-<section>
-<p data-audio-src="audio/3dfoodprinting.ogg" data-background="#56A0D3" class= "fragment">Welcome.<p>
+<section data-audio-src="audio/3dfoodprinting.ogg">
+<aside class="Intro to 3D Food Printing">
 </section>
 
 # History
@@ -12,7 +12,6 @@
 <section data-audio-src="audio/History1.ogg">
 <aside class="Although 3D Printing has been in development since the late 1980s,
 3D food printing is a relatively new arrival on the scene.">
-</section>
 </section>
 
 <section data-audio-src="audio/History2.ogg" data-background="http://static1.squarespace.com/static/563ff51ae4b07bcd9d94b307/t/570c2a078a65e290dc6740dc/1480381550154/?format=1500w"> 
@@ -45,8 +44,8 @@ an interesting direction.">
 </section>
 
 # Applications
-<section>
-<p data-audio-src="audio/applications.ogg" data-background="#56A0D3" class= "fragment">Applications of 3D Food Printing<p>
+<section data-audio-src="audio/applications.ogg">
+<aside class="Applications of 3D Food Printing">
 </section>
 
 # Gourmet
@@ -172,8 +171,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 <aside class="Who knows, one day we may have technologies similar to the replicator from Star 
 Trek to make any type of food instantly."></section>
 
-<section>
+<section data-audio-src="audio/thankyou.ogg">
 <h1>Thank You</h1>
 <aside class="Thank you.">
-<p data-audio-src="audio/thankyou.ogg" data-background="#56A0D3" class= "fragment">The End.</p>
 </section>
