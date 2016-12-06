@@ -6,6 +6,8 @@
 </section>
 
 # History
+</section>
+
 <section data-audio-src="audio/History1.ogg">
 <aside class="Although 3D Printing has been in development since the late 1980s,
 3D food printing is a relatively new arrival on the scene.">
@@ -147,6 +149,8 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 </section>
 
 # Takeaways
+</section>
+
 <section data-audio-src="audio/Takeaways1.ogg">
 <aside class="As you can see 3d food printing can have a wide range of uses.">
 </section>
@@ -164,3 +168,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 <section data-audio-src="audio/Takeaways5.ogg" data-background="http://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg">
 <aside class="Who knows, one day we may have technologies similar to the replicator from Star 
 Trek to make any type of food instantly."></section>
+
+<section>
+<h1> Thank You </h1>
+</section>
