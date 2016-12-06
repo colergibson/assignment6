@@ -3,6 +3,8 @@
 % 10 Dec, 2016
 
 #Intro to 3D Food Printing
+<section>
+<p data-audio-src="audio/3dfoodprinting.ogg" data-background="#56A0D3" class= "fragment"><p>
 </section>
 
 # History
@@ -43,6 +45,9 @@ an interesting direction.">
 </section>
 
 # Applications
+<section>
+<p data-audio-src="audio/applications.ogg" data-background="#56A0D3" class= "fragment"><p>
+</section>
 
 # Gourmet
 <section>
@@ -170,5 +175,5 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 Trek to make any type of food instantly."></section>
 
 <section>
-<h1> Thank You </h1>
+<h1 data-audio-src="audio/applications.ogg" data-background="#56A0D3" class= "fragment">Thank You </h1>
 </section>
