@@ -48,7 +48,7 @@ an interesting direction.">
 <aside class="3D printing have been newly used for inventing beautiful yet expensive gourmet food.
 A 3D printing restaurant called Food Ink serves a two hundred and fifty-pound-nine course meal in London, 
 England - all fully 3D printed live in front of the customers.">
-<p data-audio-src="audio/liveinfront.ogg" data-background="#56A0D3" class= "fragment">Food Ink, all fully 3D printed live<p>
+<p data-audio-src="audio/liveinfront.ogg" data-background="#56A0D3" class= "fragment">Food Ink, all fully 3D printed live.<p>
 <!--Next -->
 <aside class="3D printing each food currently takes two 
 to five minutes. Other restaurants that produces 3D printed food includes 3D Samba, a restaurant made by 
@@ -63,7 +63,7 @@ Focus 3D printer. The Focus 3D printer can only process paste-like materials, li
 <aside class="Food materials that can be printed includes hummus, meat, chocolate, goat cheese, and pizza dough. 
 The Focus 3D printer has been demonstrated in 3D Printshows in cities such as Paris, Rome, Singapore, Dubai,
 and Las Vegas, drawing attention from molecular gastronomers all over the world.">
-<p data-audio-src="audio/allovertheworld.ogg" data-background="#56A0D3" class= "fragment">hummus, meat, chocolate, goat cheese, and pizza dough</p>
+<p data-audio-src="audio/allovertheworld.ogg" data-background="#56A0D3" class= "fragment">hummus, meat, chocolate, goat cheese, and pizza dough.</p>
 </section>
 
 # Gourmet
@@ -81,15 +81,15 @@ has greater precision than any human hand, however, it also facilitates control,
 # Poverty/Hunger Issues
 <section>
 <aside class="3D Food Printing has been researched to solve the problem of world hunger and poverty.">
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class="fragment">researched to solve the problem of world hunger and poverty</p>
+<p data-audio-src="audio/andpoverty.ogg" data-background="#56A0D3" class="fragment">researched to solve the problem of world hunger and poverty.</p>
 <!--Next -->
 <aside class="This is done by Food Technician Peter Verstrate and Maastricht University professor Mark Post. 
 They have been researching on 3D printing beef meat starting from 2013.">
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class="fragment">Peter Verstrate and Mark Post</p>
+<p data-audio-src="audio/since2013.ogg" data-background="#56A0D3" class="fragment">Peter Verstrate and Mark Post.</p>
 <!--Next -->
 <aside class="The process involves 3D printing meat grown from beef stem cells. The initial prototype of a 3D printed meat was successful 
 and tasted remotely similar to real meat.">
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">3D printing meat from beef stem cells</p>
+<p data-audio-src="audio/torealmeat.ogg" data-background="#56A0D3" class= "fragment">3D printing meat from beef stem cells.</p>
 <!--Next -->
 <aside class="Despite this, it costs $331,000 to do 3D print meat. If 3D food printing costs are higher that of a commodity’s, 
 solving world hunger and poverty is still impossible. A benefit of 3D printing meat is that it will reduce environmental threats 
@@ -97,7 +97,7 @@ due to excessive farming and slaughtering. The researched has grown since 2013, 
 mass-produced, yet equally delicious 3D printed meat. 3D printing meat and food can be the culture in a more distant future, 
 starting with the research of solving world hunger and poverty, as long as development of 3D food printers can 
 drastically reduce costs of 3D printing food.">
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">$331,000 to print meat</p>
+<p data-audio-src="audio/costof3D.ogg" data-background="#56A0D3" class= "fragment">$331,000 to print meat.</p>
 
 </section>
 
@@ -105,7 +105,7 @@ drastically reduce costs of 3D printing food.">
 <section>
 <aside class="Researchers quoted: “3D printed lab-grown meat could be in stores in the next five years.”">
 <!--Quote -->
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class="fragment">"3D printed lab-grown meat could be in stores in the next five years."</p><br/>
+<p data-audio-src="audio/fiveyears.ogg" data-background="#56A0D3" class="fragment">"3D printed lab-grown meat could be in stores in the next five years."</p><br/>
 <!--End Quote -->
 </section>
 
