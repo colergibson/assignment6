@@ -47,22 +47,22 @@ an exciting direction.">
 <aside class="3D printing have been newly used for inventing beautiful yet expensive gourmet food.
 A 3D printing restaurant called Food Ink serves a two hundred and fifty-pound-nine course meal in London, 
 England - all fully 3D printed live in front of the customers."> s
-<p class= "fragment">Food Ink, all fully 3D printed live<p>
+<p data-audio-src="audio/liveinfront.ogg" data-background="#56A0D3" class= "fragment">Food Ink, all fully 3D printed live<p>
 <!--Next -->
 <aside class="3D printing each food currently takes two 
 to five minutes. Other restaurants that produces 3D printed food includes 3D Samba, a restaurant made by 
 a Spanish Michelin-star winning chef, Mateo Blanch.">
-<p class= "fragment">2-5 minutes printing for each food.<p>
+<p data-audio-src="audio/mateoblanch.ogg" data-background="#56A0D3" class= "fragment">2-5 minutes printing for each food.<p>
 <!--Next -->
 <aside class="The 3D printer that is commonly used in gourmet food 
 printing is made by a Dutch printer manufacturer, byFlow. ByFlow created a portable 3D printer, called the 
 Focus 3D printer. The Focus 3D printer can only process paste-like materials, like clay, ceramic, and silicon.">
-<p class= "fragment">Dutch printer manufacturer, byFlow created the Focus 3D printer.<p>
+<p data-audio-src="audio/andsilicon.ogg" data-background="#56A0D3" class= "fragment">Dutch printer manufacturer, byFlow created the Focus 3D printer.<p>
 <!--Next -->
 <aside class="Food materials that can be printed includes hummus, meat, chocolate, goat cheese, and pizza dough. 
 The Focus 3D printer has been demonstrated in 3D Printshows in cities such as Paris, Rome, Singapore, Dubai,
 and Las Vegas, drawing attention from molecular gastronomers all over the world.">
-<p class= "fragment">hummus, meat, chocolate, goat cheese, and pizza dough</p>
+<p data-audio-src="audio/allovertheworld.ogg" data-background="#56A0D3" class= "fragment">hummus, meat, chocolate, goat cheese, and pizza dough</p>
 </section>
 
 # Gourmet
@@ -72,7 +72,7 @@ however, it also facilitates control of the molecular gastronomy of printed food
 of intricately created food, the innovative act of 3D printing food may be the next fashionable gourmet experience, 
 as more restaurants are keeping an eye on the new technology."> 
 <!--Quote -->
-<p class="fragment">"The robotic limb (of the 3D printer) 
+<p data-audio-src="audio/onthenewtechnology.ogg" data-background="#56A0D3" class="fragment">"The robotic limb (of the 3D printer) 
 has greater precision than any human hand, however, it also facilitates control, of the molecular gastronomy of printed food. "</p><br/>
 <!--End Quote -->
 </section>
@@ -88,7 +88,7 @@ They have been researching on 3D printing beef meat starting from 2013.">
 <!--Next -->
 <aside class="The process involves 3D printing meat grown from beef stem cells. The initial prototype of a 3D printed meat was successful 
 and tasted remotely similar to real meat.">
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">3D printing meat from beef stem cells<p>
+<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">3D printing meat from beef stem cells</p>
 <!--Next -->
 <aside class="Despite this, it costs $331,000 to do 3D print meat. If 3D food printing costs are higher that of a commodity’s, 
 solving world hunger and poverty is still impossible. A benefit of 3D printing meat is that it will reduce environmental threats 
