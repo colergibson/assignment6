@@ -2,14 +2,15 @@
 % Celine Yuwono and Cole Gibson
 % 10 Dec, 2016
 
-<section>
-<h1>Intro to 3D Food Printing</h1>
+#Intro to 3D Food Printing
 </section>
 
+# History
+
 <section data-audio-src="audio/History1.ogg">
-<h1>History</h1>
 <aside class="Although 3D Printing has been in development since the late 1980s,
 3D food printing is a relatively new arrival on the scene.">
+</section>
 </section>
 
 <section data-audio-src="audio/History2.ogg" data-background="http://static1.squarespace.com/static/563ff51ae4b07bcd9d94b307/t/570c2a078a65e290dc6740dc/1480381550154/?format=1500w"> 
@@ -147,9 +148,11 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 <p class= "fragment">3D printing food in space may revoluationize the idea of travelling in Space</p>
 </section>
 
+# Takeaways
+
 <section data-audio-src="audio/Takeaways1.ogg">
-<h1>Takeaways</h1>
 <aside class="As you can see 3d food printing can have a wide range of uses.">
+</section>
 </section>
 
 <section data-audio-src="audio/Takeaways2.ogg" data-background="http://www.3ders.org/images2014/3d-systems-3d-food-printing-partnership-with-the-culinary-institute-of-america-5.jpg">
@@ -165,3 +168,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 <section data-audio-src="audio/Takeaways5.ogg" data-background="http://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg">
 <aside class="Who knows, one day we may have technologies similar to the replicator from Star 
 Trek to make any type of food instantly."></section>
+
+<section>
+<h1> Thank You </h1>
+</section>
