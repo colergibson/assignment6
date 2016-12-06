@@ -4,7 +4,7 @@
 
 #Intro to 3D Food Printing
 <section>
-<p data-audio-src="audio/3dfoodprinting.ogg" data-background="#56A0D3" class= "fragment"><p>
+<p data-audio-src="audio/3dfoodprinting.ogg" data-background="#56A0D3" class= "fragment">Welcome.<p>
 </section>
 
 # History
@@ -46,7 +46,7 @@ an interesting direction.">
 
 # Applications
 <section>
-<p data-audio-src="audio/applications.ogg" data-background="#56A0D3" class= "fragment"><p>
+<p data-audio-src="audio/applications.ogg" data-background="#56A0D3" class= "fragment">Applications of 3D Food Printing<p>
 </section>
 
 # Gourmet
@@ -156,9 +156,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 # Takeaways
 
 <section data-audio-src="audio/Takeaways1.ogg">
-<aside class="As you can see 3d food printing can have a wide range of uses.">
-</section>
-</section>
+<aside class="As you can see 3d food printing can have a wide range of uses."></section>
 
 <section data-audio-src="audio/Takeaways2.ogg" data-background="http://www.3ders.org/images2014/3d-systems-3d-food-printing-partnership-with-the-culinary-institute-of-america-5.jpg">
 <aside class="From artistic designs,"></section>
@@ -175,5 +173,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 Trek to make any type of food instantly."></section>
 
 <section>
-<h1 data-audio-src="audio/applications.ogg" data-background="#56A0D3" class= "fragment">Thank You </h1>
+<h1>Thank You</h1>
+<aside class="Thank you.">
+<p data-audio-src="audio/thankyou.ogg" data-background="#56A0D3" class= "fragment">The End.</p>
 </section>
