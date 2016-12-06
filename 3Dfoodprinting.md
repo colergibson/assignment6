@@ -4,7 +4,11 @@
 
 #Intro to 3D Food Printing
 <section data-audio-src="audio/3dfoodprinting.ogg">
-<aside class="Intro to 3D Food Printing">
+<aside class="notes">
+Intro to 3D Food Printing
+</aside>
+Note:
+Intro to 3D Food Printing
 </section>
 
 # History
