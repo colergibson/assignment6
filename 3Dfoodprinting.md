@@ -2,12 +2,11 @@
 % Celine Yuwono and Cole Gibson
 % 10 Dec, 2016
 
-<section>
-<h1>Intro to 3D Food Printing</h1>
+#Intro to 3D Food Printing
 </section>
 
+# History
 <section data-audio-src="audio/History1.ogg">
-<h1>History</h1>
 <aside class="Although 3D Printing has been in development since the late 1980s,
 3D food printing is a relatively new arrival on the scene.">
 </section>
@@ -147,8 +146,8 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 <p class= "fragment">3D printing food in space may revoluationize the idea of travelling in Space</p>
 </section>
 
+# Takeaways
 <section data-audio-src="audio/Takeaways1.ogg">
-<h1>Takeaways</h1>
 <aside class="As you can see 3d food printing can have a wide range of uses.">
 </section>
 
