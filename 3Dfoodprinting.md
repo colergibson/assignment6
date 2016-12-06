@@ -2,11 +2,11 @@
 % Celine Yuwono and Cole Gibson
 % 10 Dec, 2016
 
-<section id="intro-to-3d-food-printing" class="slidelevel1">
+<section>
 <h1>Intro to 3D Food Printing</h1>
 </section>
 
-<section id="history" data-audio-src="audio/History1.ogg" class="slidelevel1">
+<section data-audio-src="audio/History1.ogg">
 <h1>History</h1>
 <aside class="Although 3D Printing has been in development since the late 1980s,
 3D food printing is a relatively new arrival on the scene.">
@@ -31,7 +31,7 @@
  using fresh ingredients.">
  </section>
 
-<section data-audio-src="audio/History6.ogg" class="slidelevel1">
+<section data-audio-src="audio/History6.ogg">
    <video data-audio-controls src="./video/NaturalMachinesPizzaTrailer.mp4#t=10,30" type="video/mp4" width="100%" />
   </video>
   <aside class="In 2014 Natural Machines introduced the world to Foodini. Foodini 
@@ -147,7 +147,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 <p class= "fragment">3D printing food in space may revoluationize the idea of travelling in Space</p>
 </section>
 
-<section id ="takeaways" data-audio-src="audio/Takeaways1.ogg" class="slidelevel1">
+<section data-audio-src="audio/Takeaways1.ogg">
 <h1>Takeaways</h1>
 <aside class="As you can see 3d food printing can have a wide range of uses.">
 </section>
