@@ -116,14 +116,14 @@ drastically reduce costs of 3D printing food.">
 The aim of the research is so astronauts can make personalized recipes and prepare 
 food for themselves in Space, especially deep space travel and long missions. 
 This will allow astronauts to eat healthier, to their tastes, and more variety."> 
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">astronauts can make personalized recipes in deep space travel and long missions</p>
+<p data-audio-src="audio/morevariety.ogg" data-background="#56A0D3" class= "fragment">astronauts can make personalized recipes in deep space travel and long missions</p>
 <!--Next -->
 <aside class="NASA has funded a small, research business called “Systems and Materials Research Consultancy” 
 in Austin, Texas, to specifically study how to 3D print food in Space."> 
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">Systems and Materials Research Consultancy in Austin, Texas</p>
+<p data-audio-src="audio/inspace.ogg" data-background="#56A0D3" class= "fragment">Systems and Materials Research Consultancy in Austin, Texas</p>
 <!--Next -->
 <aside clas="The initial endowment for this Phase 1 study was $125,000 for six months.">
-<p data-audio-src="audio/Takeaways.ogg" data-background="#56A0D3" class= "fragment">$125,000 for Phase 1 study (6 months)</p>
+<p data-audio-src="audio/sixmonths.ogg" data-background="#56A0D3" class= "fragment">$125,000 for Phase 1 study (6 months)</p>
 </section>
 
 # Space
@@ -132,7 +132,7 @@ in Austin, Texas, to specifically study how to 3D print food in Space.">
 technologies that NASA is investing in, to create the new knowledge and capabilities needed to enable 
 future space missions while benefiting life here on Earth.”">
 <!--Quote -->
-<p class="fragment">"3D printing is just one of the many transformation technologies 
+<p data-audio-src="audio/hereonearth.ogg" data-background="#56A0D3" class="fragment">"3D printing is just one of the many transformation technologies 
 that NASA is investing in, to create the new technologies and capabilities needed to enable future space missions 
 while benefiting life here on Earth." </p>
 <!--End Quote -->
@@ -141,11 +141,11 @@ while benefiting life here on Earth." </p>
 # Space
 <section>
 <aside class="Although the prototype of this 3D printer is done, it has not been used directly in Space."> 
-<p class= "fragment">has not been used directly in Space</p>
+<p data-audio-src="audio/directlyinspace.ogg" data-background="#56A0D3" class= "fragment">has not been used directly in Space</p>
 <!--Next -->
 <aside class="Research on the best food to make like frozen food or hot foods, are still being conducted. 
 In the future, 3D printing food in space may revolutionize the idea of travelling in Space.">
-<p class= "fragment">3D printing food in space may revoluationize the idea of travelling in Space</p>
+<p data-audio-src="audio/theideaof.ogg" data-background="#56A0D3" class= "fragment">3D printing food in space may revoluationize the idea of travelling in Space</p>
 </section>
 
 # Takeaways
