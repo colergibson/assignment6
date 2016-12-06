@@ -169,7 +169,7 @@ In the future, 3D printing food in space may revolutionize the idea of travellin
 
 <section data-audio-src="audio/Takeaways5.ogg" data-background="http://mythcreants.com/wp-content/uploads/2015/06/food-replicator.jpg">
 <aside class="Who knows, one day we may have technologies similar to the replicator from Star 
-Trek to make any type of food instantly."></section>
+Trek to make any type of food instantly."></section></section>
 
 <section data-audio-src="audio/thankyou.ogg">
 <h1>Thank You</h1>
