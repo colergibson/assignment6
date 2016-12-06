@@ -47,7 +47,7 @@ an interesting direction.">
 <section>
 <aside class="3D printing have been newly used for inventing beautiful yet expensive gourmet food.
 A 3D printing restaurant called Food Ink serves a two hundred and fifty-pound-nine course meal in London, 
-England - all fully 3D printed live in front of the customers."> s
+England - all fully 3D printed live in front of the customers.">
 <p data-audio-src="audio/liveinfront.ogg" data-background="#56A0D3" class= "fragment">Food Ink, all fully 3D printed live<p>
 <!--Next -->
 <aside class="3D printing each food currently takes two 
